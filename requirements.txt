@@ -7,3 +7,6 @@ kaggle>=1.5.12
 kagglehub>=0.2.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
+streamlit
+pillow
+h5py
